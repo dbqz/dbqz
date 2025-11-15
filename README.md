@@ -4,7 +4,7 @@
 
 ### I'm 忘本
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
+- A High School Student & Open Source enthusiast.
 - 🌱 Currently working in shanxi, China.
 - 💬 Ask me about Java, TypeScript and my projects on [kalilinux012@outlook.com](mailto:kalilinux012@outlook.com)
 - ⭐ You may like [music](https://github.com/dbqz/music-816) 、[dbqz-jw](https://github.com/dbqz/dbzj-jw) 、or [qzwb](https://github.com/dbqz/qzwb)
